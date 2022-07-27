@@ -1,5 +1,5 @@
-FROM pandoc/latex:2.9
+FROM ubuntu
 
-RUN apk add make
+RUN apk apt-get update && apt-get install make && apt-get install context && apt-get install pandoc
 
 COPY actions/entrypoint.sh /entrypoint.sh
