@@ -1,100 +1,74 @@
-Johnny Coder
-============
+Curriculum Vitae
+================ 
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+--------------- ----
+Name:           Christian Döring
+Address:        Sonnenstraße 4, 83052 Bruckmühl
+Date of Birth:  22.03.2001
+Email:          <christian.doering@tum.de>
+Telephone:      +4915163484441
+--------------- ----
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2011-2019
+:   **Abitur(A-Levels)**; Gymnasium Bruckmühl
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+2019-2023 (expected)
+:   **B.Sc., Electrical and Computer Engineering**; Technical University of Munich
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Nine weeks Engineering Internship at Aurum GmbH**
+Development of an RFID/NFC interface Device for writing to protect able memory of IoT sensors.
+Acquired Knowledge and Abilities:
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* NFC protocol standard e.g. iso14443
+* OOP like programming in C99
 
-* First item
+July 10 – July 14, 2017
+:   **Internship**; Electronic Theater Controls (ETC)
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
+July 17 – July 21, 2017
+:   **Internship**; Lauterbach GmbH
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+[AI controlled model car](https://github.com/DoeringChristian/SNNL-car-simulator)
+:   Implementation of a Neural network in C++ for controlling a model car with
+a Raspberry Pi for a school project.\
+A model car was equipped with five ultrasonic sensors. Then the neural network
+was pre-trained using a generational algorithm in a simulated environment. In
+the end this neural network was connected to the cars input sensors as well as
+the controls. Tests where conducted to evaluate the object avoidance of the vehicle.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+[Vulkan-rt](https://github.com/DoeringChristian/vulkan-rt)
+:   Path tracer written in rust using the [screen-13](https://github.com/attackgoat/screen-13) library as a Vulkan abstraction.
+    Supports Disney's BSDF with next event estimation.
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **C++:** Experience in modern C++ as well as C89 and C99.
+    I have written Several projects in C/C++ from high level graphics
+    applications to low level microcontroller code.
+    
+:   **Python:** Experience using python for writing scripts utilizing PyTorch, TensorFlow and [EPFL's](https://www.epfl.ch/en/) mitsuba for ML.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Rust:** Experience using Rust for GPGPU and Graphics programming.
+    As Rust seems to be a promising new language for low and high
+    level programming without some caveats of C++, I use it for my personal
+    projects.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+Other Abilities and Skills
+--------------------------
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+* Languages:
+    - German (Native speaker)
+    - English (B2+/C1)
 
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
