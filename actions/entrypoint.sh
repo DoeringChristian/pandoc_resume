@@ -1,3 +1,3 @@
 #!/bin/sh
 
-sh -c make html
+sh -c make pdf
