@@ -3,5 +3,5 @@ name: 'Texlive Build'
 description: 'Build a document using texlive'
 runs:
   using: 'docker'
-  image: 'docker://DoeringChristian/mszep/pandoc_resume:master'
+  image: 'docker://doeringchristian/mszep/pandoc_resume:master'
   entrypoint: '/entrypoint.sh'
