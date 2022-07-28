@@ -58,7 +58,7 @@ Programming Languages
     I have written Several projects in C/C++ from high level graphics
     applications to low level microcontroller code.
     
-:   **Python:** Experience using python for writing scripts utilizing PyTorch, TensorFlow and [EPFL's](https://www.epfl.ch/en/) mitsuba for ML.
+:   **Python:** Experience using python for writing scripts utilizing PyTorch, TensorFlow and mitsuba for ML.
 
 :   **Rust:** Experience using Rust for GPGPU and Graphics programming.
     As Rust seems to be a promising new language for low and high
