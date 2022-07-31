@@ -6,7 +6,7 @@ Curriculum Vitae
 --------------- ----
 Name:           Christian Döring
 Address:        Sonnenstraße 4, 83052 Bruckmühl
-Date of Birth:  22.03.2001
+Date of Birth:  March 22, 2001
 Email:          <christian.doering@tum.de>
 Mobile Phone:      +4915163484441
 --------------- ----
@@ -16,16 +16,16 @@ Mobile Phone:      +4915163484441
 Education
 ---------
 
-Sept. 2011 unitl June 2019
+Sept. 2011 until June 2019
 :   **Abitur(A-Levels)**; Gymnasium Bruckmühl
 
-Since Oct2019
+Since Oct. 2019
 :   **B.Sc., Electrical and Computer Engineering**; Technical University of Munich
 
 Experience
 ----------
 
-Sept July 26 - Aug 28
+July 26 - Aug 28
 :   **Internship**; Aurum GmbH, Munich
 Development of an RFID/NFC interface Device for writing to protect able memory of IoT sensors.
 Acquired Knowledge and Abilities:
@@ -70,6 +70,6 @@ Other Abilities and Skills
 --------------------------
 
 * Languages:
-    - German (Native speaker)
+    - German (native speaker)
     - English (B2+/C1)
 
