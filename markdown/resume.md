@@ -8,7 +8,7 @@ Name:           Christian Döring
 Address:        Sonnenstraße 4, 83052 Bruckmühl
 Date of Birth:  22.03.2001
 Email:          <christian.doering@tum.de>
-Telephone:      +4915163484441
+Mobile Phone:      +4915163484441
 --------------- ----
 
 ----
@@ -16,16 +16,17 @@ Telephone:      +4915163484441
 Education
 ---------
 
-2011-2019
+Sept. 2011 unitl June 2019
 :   **Abitur(A-Levels)**; Gymnasium Bruckmühl
 
-2019-2023 (expected)
+Since Oct2019
 :   **B.Sc., Electrical and Computer Engineering**; Technical University of Munich
 
 Experience
 ----------
 
-**Nine weeks Engineering Internship at Aurum GmbH**
+Sept July 26 - Aug 28
+:   **Internship**; Aurum GmbH, Munich
 Development of an RFID/NFC interface Device for writing to protect able memory of IoT sensors.
 Acquired Knowledge and Abilities:
 
@@ -33,10 +34,10 @@ Acquired Knowledge and Abilities:
 * OOP like programming in C99
 
 July 10 – July 14, 2017
-:   **Internship**; Electronic Theater Controls (ETC)
+:   **Internship**; Electronic Theater Controls (ETC), Holzkirchen
 
 July 17 – July 21, 2017
-:   **Internship**; Lauterbach GmbH
+:   **Internship**; Lauterbach GmbH, Höhenkirchen-Siegertsbrunn 
 
 Technical Experience
 --------------------
@@ -46,12 +47,12 @@ Technical Experience
 a Raspberry Pi for a school project.\
 A model car was equipped with five ultrasonic sensors. Then the neural network
 was pre-trained using a generational algorithm in a simulated environment. In
-the end this neural network was connected to the cars input sensors as well as
-the controls. Tests where conducted to evaluate the object avoidance of the vehicle.
+the end this neural network was connected to the input sensors of the car as well as to
+the controls. Tests were conducted to evaluate the object avoidance of the vehicle.
 
 [Vulkan-rt](https://github.com/DoeringChristian/vulkan-rt)
 :   Path tracer written in rust using the [screen-13](https://github.com/attackgoat/screen-13) library as a Vulkan abstraction.
-    Supports Disney's BSDF with next event estimation.
+    It supports Disney's BSDF with Next Event Estimation.
 
 Programming Languages
 :   **C++:** Experience in modern C++ as well as C89 and C99.
@@ -60,7 +61,7 @@ Programming Languages
     
 :   **Python:** Experience using python for writing scripts utilizing PyTorch, TensorFlow and mitsuba for ML.
 
-:   **Rust:** Experience using Rust for GPGPU and Graphics programming.
+:   **Rust:** Experience using Rust for GPGPU and graphics programming.
     As Rust seems to be a promising new language for low and high
     level programming without some caveats of C++, I use it for my personal
     projects.
