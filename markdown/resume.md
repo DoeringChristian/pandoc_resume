@@ -61,7 +61,7 @@ Programming Languages
     
 :   **Python:** Experience using python for writing scripts utilizing PyTorch, TensorFlow and mitsuba for ML.
 
-:   **Rust:** Experience using Rust for GPGPU and graphics programming.
+:   **Rust:** Experience using Rust for GPGPU and graphics' programming.
     As Rust seems to be a promising new language for low and high
     level programming without some caveats of C++, I use it for my personal
     projects.
