@@ -16,7 +16,7 @@ Mobile Phone:      +4915163484441
 Education
 ---------
 
-Sept. 2011 until June 2019
+Sept. 2011 - June 2019
 :   **Abitur(A-Levels)**; Gymnasium Bruckmühl
 
 Since Oct. 2019
@@ -69,7 +69,7 @@ Programming Languages
 Other Abilities and Skills
 --------------------------
 
-* Languages:
-    - German (native speaker)
-    - English (B2+/C1)
+Languages
+:   * German (native speaker)
+    * English (B2+/C1)
 
