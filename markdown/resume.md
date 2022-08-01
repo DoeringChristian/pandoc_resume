@@ -27,11 +27,11 @@ Experience
 
 July 26 - Aug 28
 :   **Internship**; Aurum GmbH, Munich
-Development of an RFID/NFC interface Device for writing to protect able memory of IoT sensors.
-Acquired Knowledge and Abilities:
-
-* NFC protocol standard e.g. iso14443
-* OOP like programming in C99
+    Development of an RFID/NFC interface Device for writing to protect able memory of IoT sensors.
+    Acquired Knowledge and Abilities:
+    
+    * NFC protocol standard e.g. iso14443
+    * OOP like programming in C99
 
 July 10 – July 14, 2017
 :   **Internship**; Electronic Theater Controls (ETC), Holzkirchen
@@ -44,11 +44,11 @@ Technical Experience
 
 [AI controlled model car](https://github.com/DoeringChristian/SNNL-car-simulator)
 :   Implementation of a Neural network in C++ for controlling a model car with
-a Raspberry Pi for a school project.\
-A model car was equipped with five ultrasonic sensors. Then the neural network
-was pre-trained using a generational algorithm in a simulated environment. In
-the end this neural network was connected to the input sensors of the car as well as to
-the controls. Tests were conducted to evaluate the object avoidance of the vehicle.
+    a Raspberry Pi for a school project.\
+    A model car was equipped with five ultrasonic sensors. Then the neural network
+    was pre-trained using a generational algorithm in a simulated environment. In
+    the end this neural network was connected to the input sensors of the car as well as to
+    the controls. Tests were conducted to evaluate the object avoidance of the vehicle.
 
 [Vulkan-rt](https://github.com/DoeringChristian/vulkan-rt)
 :   Path tracer written in rust using the [screen-13](https://github.com/attackgoat/screen-13) library as a Vulkan abstraction.
