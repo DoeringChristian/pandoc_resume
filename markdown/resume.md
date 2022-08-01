@@ -28,7 +28,7 @@ Experience
 July 26 - Aug 28
 :   **Internship**; Aurum GmbH, Munich                      
     Development of an RFID/NFC interface Device for writing to protect able memory of IoT sensors.
-    Acquired Knowledge and Abilities:
+    Acquired knowledge and abilities:
     
     * NFC protocol standard e.g. iso14443
     * OOP like programming in C99
