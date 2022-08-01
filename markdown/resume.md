@@ -17,16 +17,16 @@ Education
 ---------
 
 Sept. 2011 - June 2019
-:   **Abitur(A-Levels)**; Gymnasium Bruckmühl
+:   Gymnasium Bruckmühl; graduation **Abitur (A-Levels)**
 
 Since Oct. 2019
-:   **B.Sc., Electrical and Computer Engineering**; Technical University of Munich
+:   Technical University of Munich; presumed final degree **B.Sc., Electrical and Computer Engineering**
 
 Experience
 ----------
 
 July 26 - Aug 28
-:   **Internship**; Aurum GmbH, Munich
+:   **Internship**; Aurum GmbH, Munich                      
     Development of an RFID/NFC interface Device for writing to protect able memory of IoT sensors.
     Acquired Knowledge and Abilities:
     
